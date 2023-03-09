@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
-
+slogan:string ='This is shoppers first STOP.'
+imgSource:string = 'assets/site-image.JPG'
 }
