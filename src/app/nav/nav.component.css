@@ -1,0 +1,19 @@
+.nav-bar{
+    display: flex;
+    background-color: khaki;
+}
+.site-name{
+    padding: 5px 30px;
+    color: coral;
+    text-align:left;
+    
+}
+.site-menu{
+    padding: 5px 30px;
+    margin-left: 100px;
+}
+*{
+    text-decoration: none;
+    color: blueviolet;
+    margin: 0px 10px;
+}
