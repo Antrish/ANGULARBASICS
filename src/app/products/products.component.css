@@ -1,0 +1,40 @@
+.product-container{
+    display: flex;
+    margin: 15px 0px;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+.image-container{
+    background-color: #fff;
+    height: 70px;
+    width: 70px;
+    padding: 10px 0px;
+    text-align: center;
+}
+
+.details-container{
+    align-self: center;
+    text-align: left;
+}
+.name-container{
+    margin: 0px 10px;
+    font-size: small;
+}
+
+.details{
+    width: 220px;
+}
+
+.options{
+    float: right;;
+    width: auto;
+    margin-left: 30px;
+}
+
+.btn{
+    border-radius: none;
+    margin: 0px 5px;
+    padding: 2px 10px;
+    font-size: 12px;
+}
